@@ -1,0 +1,180 @@
+{"frames": [
+
+{
+	"filename": "blendandcare.png",
+	"frame": {"x":544,"y":1817,"w":125,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":17},
+	"sourceSize": {"w":125,"h":17}
+},
+{
+	"filename": "btn-close.png",
+	"frame": {"x":684,"y":1610,"w":74,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":74},
+	"sourceSize": {"w":74,"h":74}
+},
+{
+	"filename": "btn-instructions.png",
+	"frame": {"x":867,"y":1534,"w":185,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":62},
+	"sourceSize": {"w":185,"h":62}
+},
+{
+	"filename": "btn-play.png",
+	"frame": {"x":684,"y":1534,"w":181,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":74},
+	"sourceSize": {"w":181,"h":74}
+},
+{
+	"filename": "btn-prizes.png",
+	"frame": {"x":1054,"y":1534,"w":115,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":62},
+	"sourceSize": {"w":115,"h":62}
+},
+{
+	"filename": "instructions.png",
+	"frame": {"x":1,"y":1,"w":640,"h":700},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":700},
+	"sourceSize": {"w":640,"h":700}
+},
+{
+	"filename": "logo.png",
+	"frame": {"x":544,"y":1773,"w":149,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":42},
+	"sourceSize": {"w":149,"h":42}
+},
+{
+	"filename": "menu-background.png",
+	"frame": {"x":1,"y":703,"w":640,"h":700},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":700},
+	"sourceSize": {"w":640,"h":700}
+},
+{
+	"filename": "menu-lights-left.png",
+	"frame": {"x":643,"y":1,"w":591,"h":700},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":591,"h":700},
+	"sourceSize": {"w":591,"h":700}
+},
+{
+	"filename": "menu-lights-right.png",
+	"frame": {"x":643,"y":703,"w":591,"h":700},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":591,"h":700},
+	"sourceSize": {"w":591,"h":700}
+},
+{
+	"filename": "prizes-grand.png",
+	"frame": {"x":1236,"y":1,"w":610,"h":665},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":610,"h":665},
+	"sourceSize": {"w":610,"h":665}
+},
+{
+	"filename": "prizes-instant.png",
+	"frame": {"x":1236,"y":668,"w":610,"h":665},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":610,"h":665},
+	"sourceSize": {"w":610,"h":665}
+},
+{
+	"filename": "prizes-weekly.png",
+	"frame": {"x":1236,"y":1335,"w":610,"h":665},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":610,"h":665},
+	"sourceSize": {"w":610,"h":665}
+},
+{
+	"filename": "ropes.png",
+	"frame": {"x":1,"y":1405,"w":681,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":681,"h":279},
+	"sourceSize": {"w":681,"h":279}
+},
+{
+	"filename": "share.png",
+	"frame": {"x":695,"y":1773,"w":68,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":16},
+	"sourceSize": {"w":68,"h":16}
+},
+{
+	"filename": "sound-1.png",
+	"frame": {"x":760,"y":1610,"w":76,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":67},
+	"sourceSize": {"w":76,"h":67}
+},
+{
+	"filename": "sound-2.png",
+	"frame": {"x":544,"y":1836,"w":75,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":67},
+	"sourceSize": {"w":75,"h":67}
+},
+{
+	"filename": "spotlights.png",
+	"frame": {"x":544,"y":1686,"w":640,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":85},
+	"sourceSize": {"w":640,"h":85}
+},
+{
+	"filename": "terms-link.png",
+	"frame": {"x":1,"y":1989,"w":143,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":10},
+	"sourceSize": {"w":143,"h":10}
+},
+{
+	"filename": "title.png",
+	"frame": {"x":684,"y":1405,"w":490,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":490,"h":127},
+	"sourceSize": {"w":490,"h":127}
+},
+{
+	"filename": "window-lights.png",
+	"frame": {"x":1,"y":1686,"w":541,"h":301},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":541,"h":301},
+	"sourceSize": {"w":541,"h":301}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ui.png",
+	"format": "RGBA8888",
+	"size": {"w":1847,"h":2001},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3e6c37c229a1ac7a72c27fca456023bb:b76a8381690aabd9a185d03023643563:5b04aa198265472a3c5f56958d78e97b$"
+}
+}

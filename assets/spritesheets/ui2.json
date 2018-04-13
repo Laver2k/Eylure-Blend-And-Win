@@ -1,0 +1,124 @@
+{"frames": [
+
+{
+	"filename": "facebook.png",
+	"frame": {"x":377,"y":1405,"w":46,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":46},
+	"sourceSize": {"w":46,"h":46}
+},
+{
+	"filename": "game-lose.png",
+	"frame": {"x":1,"y":1,"w":640,"h":700},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":700},
+	"sourceSize": {"w":640,"h":700}
+},
+{
+	"filename": "game-success.png",
+	"frame": {"x":1,"y":703,"w":640,"h":700},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":700},
+	"sourceSize": {"w":640,"h":700}
+},
+{
+	"filename": "instructions-simple.png",
+	"frame": {"x":643,"y":1,"w":640,"h":700},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":700},
+	"sourceSize": {"w":640,"h":700}
+},
+{
+	"filename": "loading.png",
+	"frame": {"x":1,"y":1405,"w":374,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":374,"h":124},
+	"sourceSize": {"w":374,"h":124}
+},
+{
+	"filename": "prize-accents.jpg",
+	"frame": {"x":1285,"y":703,"w":235,"h":235},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":235},
+	"sourceSize": {"w":235,"h":235}
+},
+{
+	"filename": "prize-blend-care.jpg",
+	"frame": {"x":1522,"y":703,"w":235,"h":235},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":235},
+	"sourceSize": {"w":235,"h":235}
+},
+{
+	"filename": "prize-definition.jpg",
+	"frame": {"x":1285,"y":940,"w":235,"h":235},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":235},
+	"sourceSize": {"w":235,"h":235}
+},
+{
+	"filename": "prize-exaggerate.jpg",
+	"frame": {"x":1285,"y":1177,"w":235,"h":235},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":235},
+	"sourceSize": {"w":235,"h":235}
+},
+{
+	"filename": "prize-lose.png",
+	"frame": {"x":1285,"y":1,"w":640,"h":700},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":700},
+	"sourceSize": {"w":640,"h":700}
+},
+{
+	"filename": "prize-texture.jpg",
+	"frame": {"x":1522,"y":940,"w":235,"h":235},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":235},
+	"sourceSize": {"w":235,"h":235}
+},
+{
+	"filename": "prize-volume.jpg",
+	"frame": {"x":1522,"y":1177,"w":235,"h":235},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":235},
+	"sourceSize": {"w":235,"h":235}
+},
+{
+	"filename": "prize-win.png",
+	"frame": {"x":643,"y":703,"w":640,"h":700},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":700},
+	"sourceSize": {"w":640,"h":700}
+},
+{
+	"filename": "twitter.png",
+	"frame": {"x":377,"y":1453,"w":46,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":46,"h":40},
+	"sourceSize": {"w":46,"h":46}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ui2.png",
+	"format": "RGBA8888",
+	"size": {"w":1926,"h":1530},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:60a442d4013f366e35a2aedffb21fa12:b9726834ef69c9bf2715b6ebec434700:56cbde1bbf049bc117e5a8b87eea74cc$"
+}
+}

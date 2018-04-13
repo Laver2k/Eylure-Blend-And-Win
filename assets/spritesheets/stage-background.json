@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "club-background-lights.png",
+	"frame": {"x":1335,"y":1338,"w":637,"h":449},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":637,"h":449},
+	"sourceSize": {"w":640,"h":515}
+},
+{
+	"filename": "club-background.png",
+	"frame": {"x":693,"y":797,"w":640,"h":515},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":515},
+	"sourceSize": {"w":640,"h":515}
+},
+{
+	"filename": "decks.png",
+	"frame": {"x":693,"y":1314,"w":640,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":432},
+	"sourceSize": {"w":640,"h":432}
+},
+{
+	"filename": "dj-lights.png",
+	"frame": {"x":1335,"y":820,"w":639,"h":516},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":639,"h":516},
+	"sourceSize": {"w":639,"h":516}
+},
+{
+	"filename": "light-1.png",
+	"frame": {"x":777,"y":1,"w":658,"h":794},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":658,"h":794},
+	"sourceSize": {"w":658,"h":794}
+},
+{
+	"filename": "light-2.png",
+	"frame": {"x":1,"y":761,"w":690,"h":824},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":690,"h":824},
+	"sourceSize": {"w":690,"h":824}
+},
+{
+	"filename": "light-3.png",
+	"frame": {"x":1437,"y":1,"w":600,"h":817},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":817},
+	"sourceSize": {"w":600,"h":817}
+},
+{
+	"filename": "light-4.png",
+	"frame": {"x":1,"y":1,"w":774,"h":758},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":774,"h":758},
+	"sourceSize": {"w":774,"h":758}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "stage-background.png",
+	"format": "RGBA8888",
+	"size": {"w":2038,"h":1788},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d0def000de1f5165126e87ab475ea2ff:0ee9d74e03b339c1b49e2ba9f16000ab:28197e3f20b14a896a5f1489b3c07766$"
+}
+}
